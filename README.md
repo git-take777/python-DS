@@ -9,3 +9,8 @@
 # python-DS
 # python-DS
 # python-DS
+
+
+## 親リポジトリで個別のリポも管理したい。
+Ex.
+git submodule add <repo-url> machine-learning
