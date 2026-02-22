@@ -1,3 +1,6 @@
 [submodule "Udemy/python_data_analysis"]
 	path = Udemy/python_data_analysis
 	url = https://github.com/git-take777/python-data-analysis
+[submodule "Books/data-analysis-100knocks"]
+	path = Books/data-analysis-100knocks
+	url = https://github.com/git-take777/data-analysis-100knocks
