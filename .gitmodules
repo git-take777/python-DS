@@ -4,3 +4,6 @@
 [submodule "Books/data-analysis-100knocks"]
 	path = Books/data-analysis-100knocks
 	url = https://github.com/git-take777/data-analysis-100knocks
+[submodule "Udemy/Machine-Learning/01-machine-learning-foundations"]
+	path = Udemy/Machine-Learning/01-machine-learning-foundations
+	url = https://github.com/git-take777/01-machine-learning-foundations.git
