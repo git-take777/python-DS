@@ -7,3 +7,9 @@
 [submodule "Udemy/Machine-Learning/01-machine-learning-foundations"]
 	path = Udemy/Machine-Learning/01-machine-learning-foundations
 	url = https://github.com/git-take777/01-machine-learning-foundations.git
+[submodule "Udemy/Machine-Learning/02-advanced-machine-learning"]
+	path = Udemy/Machine-Learning/02-advanced-machine-learning
+	url = https://github.com/git-take777/02-advanced-machine-learning.git
+[submodule "Udemy/Machine-Learning/03-production-level"]
+	path = Udemy/Machine-Learning/03-production-level
+	url = https://github.com/git-take777/03-production-level.git
